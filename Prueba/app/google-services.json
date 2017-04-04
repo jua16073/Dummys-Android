@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "854385184971",
+    "firebase_url": "https://prueba-fc273.firebaseio.com",
+    "project_id": "prueba-fc273",
+    "storage_bucket": "prueba-fc273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854385184971:android:af40bee3fe3911bc",
+        "android_client_info": {
+          "package_name": "com.example.roderyx.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854385184971-p2erp5d8b1fc92cr5k2ghbdarb4osmaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsX2OjshkcF5k98nWydzzgRxQYd4nqQ0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
